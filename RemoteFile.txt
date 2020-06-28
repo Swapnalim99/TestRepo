@@ -1,1 +1,2 @@
 Chang1 in remote file
+Change2 made from GitHub
